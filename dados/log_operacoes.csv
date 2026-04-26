@@ -3,42 +3,42 @@ timestamp;modulo_id;operacao;status;combustivel_antes_pct;combustivel_depois_pct
 2035-04-15T14:23:12;HAB-01;descida_iniciada;em_progresso;85.5;82.3;DESCENDO;Altitude 45.2km - Velocidade 320m/s
 2035-04-15T14:25:38;HAB-01;acionamento_retrofoguetes;em_progresso;82.3;71.8;FRENANDO;Altitude 15.8km - Velocidade 85m/s
 2035-04-15T14:27:54;HAB-01;pouso_completo;sucesso;71.8;68.2;POUSADO;Modulo HAB-01 pousado com sucesso - Area A1
-2035-04-15T16:43:21;ENE-02;verificacao_pre_pouso;aprovado;78.2;78.2;AUTORIZADO;Condicoes atmosfericas favoraveis
-2035-04-15T16:44:05;ENE-02;descida_iniciada;em_progresso;78.2;75.6;DESCENDO;Altitude 52.8km - Velocidade 285m/s
-2035-04-15T16:46:42;ENE-02;acionamento_retrofoguetes;em_progresso;75.6;63.4;FRENANDO;Altitude 14.2km - Velocidade 72m/s
-2035-04-15T16:48:29;ENE-02;pouso_completo;sucesso;63.4;59.8;POUSADO;Modulo ENE-02 pousado com sucesso - Area A2
-2035-04-15T18:15:33;LAB-03;verificacao_pre_pouso;aprovado;92.3;92.3;AUTORIZADO;Prioridade media - combustivel excelente
-2035-04-15T18:16:18;LAB-03;descida_iniciada;em_progresso;92.3;89.7;DESCENDO;Altitude 38.4km - Velocidade 310m/s
-2035-04-15T18:18:45;LAB-03;acionamento_retrofoguetes;em_progresso;89.7;79.2;FRENANDO;Altitude 12.6km - Velocidade 68m/s
-2035-04-15T18:20:51;LAB-03;pouso_completo;sucesso;79.2;75.5;POUSADO;Modulo LAB-03 pousado com sucesso - Area B1
-2035-04-15T20:22:17;LOG-04;verificacao_pre_pouso;aprovado;68.7;68.7;AUTORIZADO;Combustivel acima do minimo de seguranca
-2035-04-15T20:23:04;LOG-04;descida_iniciada;em_progresso;68.7;65.9;DESCENDO;Altitude 41.7km - Velocidade 295m/s
-2035-04-15T20:25:28;LOG-04;acionamento_retrofoguetes;em_progresso;65.9;54.8;FRENANDO;Altitude 13.9km - Velocidade 75m/s
-2035-04-15T20:27:39;LOG-04;pouso_completo;sucesso;54.8;51.2;POUSADO;Modulo LOG-04 pousado com sucesso - Area B2
-2035-04-15T22:41:52;MED-05;verificacao_pre_pouso;aprovado;81.4;81.4;AUTORIZADO;Modulo critico - verificacao dupla realizada
-2035-04-15T22:42:36;MED-05;descida_iniciada;em_progresso;81.4;78.9;DESCENDO;Altitude 49.3km - Velocidade 305m/s
-2035-04-15T22:45:13;MED-05;acionamento_retrofoguetes;em_progresso;78.9;68.1;FRENANDO;Altitude 15.1km - Velocidade 70m/s
-2035-04-15T22:47:08;MED-05;pouso_completo;sucesso;68.1;64.7;POUSADO;Modulo MED-05 pousado com sucesso - Area C1
+2035-04-15T16:43:21;ENE-01;verificacao_pre_pouso;aprovado;78.2;78.2;AUTORIZADO;Condicoes atmosfericas favoraveis
+2035-04-15T16:44:05;ENE-01;descida_iniciada;em_progresso;78.2;75.6;DESCENDO;Altitude 52.8km - Velocidade 285m/s
+2035-04-15T16:46:42;ENE-01;acionamento_retrofoguetes;em_progresso;75.6;63.4;FRENANDO;Altitude 14.2km - Velocidade 72m/s
+2035-04-15T16:48:29;ENE-01;pouso_completo;sucesso;63.4;59.8;POUSADO;Modulo ENE-01 pousado com sucesso - Area A2
+2035-04-15T18:15:33;LAB-01;verificacao_pre_pouso;aprovado;92.3;92.3;AUTORIZADO;Prioridade media - combustivel excelente
+2035-04-15T18:16:18;LAB-01;descida_iniciada;em_progresso;92.3;89.7;DESCENDO;Altitude 38.4km - Velocidade 310m/s
+2035-04-15T18:18:45;LAB-01;acionamento_retrofoguetes;em_progresso;89.7;79.2;FRENANDO;Altitude 12.6km - Velocidade 68m/s
+2035-04-15T18:20:51;LAB-01;pouso_completo;sucesso;79.2;75.5;POUSADO;Modulo LAB-01 pousado com sucesso - Area B1
+2035-04-15T20:22:17;LOG-01;verificacao_pre_pouso;aprovado;68.7;68.7;AUTORIZADO;Combustivel acima do minimo de seguranca
+2035-04-15T20:23:04;LOG-01;descida_iniciada;em_progresso;68.7;65.9;DESCENDO;Altitude 41.7km - Velocidade 295m/s
+2035-04-15T20:25:28;LOG-01;acionamento_retrofoguetes;em_progresso;65.9;54.8;FRENANDO;Altitude 13.9km - Velocidade 75m/s
+2035-04-15T20:27:39;LOG-01;pouso_completo;sucesso;54.8;51.2;POUSADO;Modulo LOG-01 pousado com sucesso - Area B2
+2035-04-15T22:41:52;MED-01;verificacao_pre_pouso;aprovado;81.4;81.4;AUTORIZADO;Modulo critico - verificacao dupla realizada
+2035-04-15T22:42:36;MED-01;descida_iniciada;em_progresso;81.4;78.9;DESCENDO;Altitude 49.3km - Velocidade 305m/s
+2035-04-15T22:45:13;MED-01;acionamento_retrofoguetes;em_progresso;78.9;68.1;FRENANDO;Altitude 15.1km - Velocidade 70m/s
+2035-04-15T22:47:08;MED-01;pouso_completo;sucesso;68.1;64.7;POUSADO;Modulo MED-01 pousado com sucesso - Area C1
 2035-04-16T01:12:45;HAB-02;verificacao_pre_pouso;alerta;55.3;55.3;ESPERA;Tempestade de areia detectada - aguardando
 2035-04-16T03:28:31;HAB-02;verificacao_pre_pouso;aprovado;54.8;54.8;AUTORIZADO;Condicoes atmosfericas normalizadas
 2035-04-16T03:29:17;HAB-02;descida_iniciada;em_progresso;54.8;52.1;DESCENDO;Altitude 35.6km - Velocidade 315m/s
 2035-04-16T03:31:52;HAB-02;acionamento_retrofoguetes;em_progresso;52.1;41.3;FRENANDO;Altitude 11.8km - Velocidade 78m/s
 2035-04-16T03:33:44;HAB-02;pouso_completo;sucesso;41.3;37.9;POUSADO;Modulo HAB-02 pousado com sucesso - Area A3
-2035-04-16T05:45:29;ENE-03;verificacao_pre_pouso;negado;25.8;25.8;ABORTADO;Combustivel critico E area indisponivel
-2035-04-16T06:15:38;ENE-03;verificacao_pre_pouso;emergencia;23.4;23.4;EMERGENCIA;Pouso de emergencia autorizado - Area D1
-2035-04-16T06:16:11;ENE-03;descida_emergencia;em_progresso;23.4;20.7;DESCENDO_RAPIDO;Altitude 58.1km - Velocidade 275m/s
-2035-04-16T06:18:35;ENE-03;acionamento_retrofoguetes;critico;20.7;8.9;FRENANDO_MAX;Altitude 9.4km - Combustivel critico
-2035-04-16T06:19:58;ENE-03;pouso_completo;sucesso_emergencia;8.9;4.2;POUSADO_EMERGENCIA;Modulo ENE-03 pousado emergencial - Area D1 - Combustivel restante 4.2pct
-2035-04-16T08:33:17;LAB-04;verificacao_pre_pouso;aprovado;73.9;73.9;AUTORIZADO;Parametros nominais
-2035-04-16T08:34:02;LAB-04;descida_iniciada;em_progresso;73.9;71.3;DESCENDO;Altitude 42.9km - Velocidade 300m/s
-2035-04-16T08:36:38;LAB-04;acionamento_retrofoguetes;em_progresso;71.3;60.7;FRENANDO;Altitude 13.3km - Velocidade 73m/s
-2035-04-16T08:38:29;LAB-04;pouso_completo;sucesso;60.7;57.1;POUSADO;Modulo LAB-04 pousado com sucesso - Area B3
-2035-04-16T10:52:44;LOG-05;verificacao_pre_pouso;aprovado;88.1;88.1;AUTORIZADO;Modulo critico de agua - prioridade maxima
-2035-04-16T10:53:31;LOG-05;descida_iniciada;em_progresso;88.1;85.6;DESCENDO;Altitude 46.5km - Velocidade 290m/s
-2035-04-16T10:56:07;LOG-05;acionamento_retrofoguetes;em_progresso;85.6;74.9;FRENANDO;Altitude 14.7km - Velocidade 71m/s
-2035-04-16T10:57:53;LOG-05;pouso_completo;sucesso;74.9;71.3;POUSADO;Modulo LOG-05 pousado com sucesso - Area B4
-2035-04-16T13:18:26;MED-06;verificacao_pre_pouso;alerta;62.4;62.4;ESPERA;Sensor de integridade falhando - diagnostico em andamento
-2035-04-16T13:45:12;MED-06;verificacao_pre_pouso;aprovado;61.8;61.8;AUTORIZADO;Sensor restaurado - sistemas nominais
-2035-04-16T13:45:59;MED-06;descida_iniciada;em_progresso;61.8;59.2;DESCENDO;Altitude 39.8km - Velocidade 308m/s
-2035-04-16T13:48:24;MED-06;acionamento_retrofoguetes;em_progresso;59.2;48.7;FRENANDO;Altitude 12.1km - Velocidade 76m/s
-2035-04-16T13:50:18;MED-06;pouso_completo;sucesso;48.7;45.3;POUSADO;Modulo MED-06 pousado com sucesso - Area C2
+2035-04-16T05:45:29;ENE-02;verificacao_pre_pouso;negado;25.8;25.8;ABORTADO;Combustivel critico E area indisponivel
+2035-04-16T06:15:38;ENE-02;verificacao_pre_pouso;emergencia;23.4;23.4;EMERGENCIA;Pouso de emergencia autorizado - Area D1
+2035-04-16T06:16:11;ENE-02;descida_emergencia;em_progresso;23.4;20.7;DESCENDO_RAPIDO;Altitude 58.1km - Velocidade 275m/s
+2035-04-16T06:18:35;ENE-02;acionamento_retrofoguetes;critico;20.7;8.9;FRENANDO_MAX;Altitude 9.4km - Combustivel critico
+2035-04-16T06:19:58;ENE-02;pouso_completo;sucesso_emergencia;8.9;4.2;POUSADO_EMERGENCIA;Modulo ENE-02 pousado emergencial - Area D1 - Combustivel restante 4.2pct
+2035-04-16T08:33:17;LAB-02;verificacao_pre_pouso;aprovado;73.9;73.9;AUTORIZADO;Parametros nominais
+2035-04-16T08:34:02;LAB-02;descida_iniciada;em_progresso;73.9;71.3;DESCENDO;Altitude 42.9km - Velocidade 300m/s
+2035-04-16T08:36:38;LAB-02;acionamento_retrofoguetes;em_progresso;71.3;60.7;FRENANDO;Altitude 13.3km - Velocidade 73m/s
+2035-04-16T08:38:29;LAB-02;pouso_completo;sucesso;60.7;57.1;POUSADO;Modulo LAB-02 pousado com sucesso - Area B3
+2035-04-16T10:52:44;LOG-02;verificacao_pre_pouso;aprovado;88.1;88.1;AUTORIZADO;Modulo critico de agua - prioridade maxima
+2035-04-16T10:53:31;LOG-02;descida_iniciada;em_progresso;88.1;85.6;DESCENDO;Altitude 46.5km - Velocidade 290m/s
+2035-04-16T10:56:07;LOG-02;acionamento_retrofoguetes;em_progresso;85.6;74.9;FRENANDO;Altitude 14.7km - Velocidade 71m/s
+2035-04-16T10:57:53;LOG-02;pouso_completo;sucesso;74.9;71.3;POUSADO;Modulo LOG-02 pousado com sucesso - Area B4
+2035-04-16T13:18:26;MED-02;verificacao_pre_pouso;alerta;62.4;62.4;ESPERA;Sensor de integridade falhando - diagnostico em andamento
+2035-04-16T13:45:12;MED-02;verificacao_pre_pouso;aprovado;61.8;61.8;AUTORIZADO;Sensor restaurado - sistemas nominais
+2035-04-16T13:45:59;MED-02;descida_iniciada;em_progresso;61.8;59.2;DESCENDO;Altitude 39.8km - Velocidade 308m/s
+2035-04-16T13:48:24;MED-02;acionamento_retrofoguetes;em_progresso;59.2;48.7;FRENANDO;Altitude 12.1km - Velocidade 76m/s
+2035-04-16T13:50:18;MED-02;pouso_completo;sucesso;48.7;45.3;POUSADO;Modulo MED-02 pousado com sucesso - Area C2

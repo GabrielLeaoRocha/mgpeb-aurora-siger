@@ -11,7 +11,7 @@ mgpeb-aurora-siger/
 ├── dados/
 │   ├── modulos_fila_pouso.csv          # Módulos aguardando pouso (20 registros)
 │   ├── log_operacoes.csv               # Histórico de operações de pouso (42 registros)
-│   └── telemetria_descida_HAB01.csv    # Telemetria detalhada da descida do HAB-01 (40 medições)
+│   └── telemetria_descida.csv          # Telemetria detalhada da descida do HAB-01 (40 medições)
 ├── src/
 │   ├── mgpeb.py                        # Script principal
 │   ├── estruturas.py                   # Estruturas de dados (fila, pilha, lista)
@@ -38,7 +38,7 @@ Os arquivos CSV na pasta `dados/` simulam cenários variados de operação:
 
 - **Cenários nominais**: Módulos com todos os parâmetros dentro das faixas seguras
 - **Cenários de alerta**: Módulos com combustível baixo ou sensores falhando
-- **Cenários de emergência**: Pouso forçado por combustível crítico (ex: ENE-03)
+- **Cenários de emergência**: Pouso forçado por combustível crítico (ex: ENE-02)
 - **Cenários de espera**: Condições atmosféricas adversas ou área indisponível
 
 ## Requisitos
